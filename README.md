@@ -1,2 +1,1 @@
-# PracticalTest01Var05
-Colocviu 01 
+Andrei Pancu 341C1
